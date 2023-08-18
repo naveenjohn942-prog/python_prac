@@ -1,0 +1,369 @@
+int() float() round()
+round(7.5) is 8 round(7.3) is 70
+Literal Identifier Keywords Statement
+data types integers floats string
+"" or '' same thing "abc"=='abc' true
+whitespaces is meaningful that is indentation and placement of newlines
+Use a newline to end a line of code and to go to the next line prematurely \
+colons start of a new block in many constructs eg function definition then clauses
+ # is a comment line
+assignment operation =
+A reference is deleted via garbage collection after any names bound to it have passed out of scope
+Python uses reference semantics
+Names can't start with numbers for identifier.
+THere are reserved words like and assert break class continue def del elif else except exec finally for from global if import in is lambda not or pass print raise return try while
+joined_lower for functions methods and attributes
+joined_lower or ALL_CAPS for constant
+StudlyCaps for classes
+camelCase only to conform to pre existing conventions
+attributes
+
+x,y=2,3
+
+x,y=y,x swap
+
+a=b=x=2
+
+Types of operators
+Arithmetic +-*// ** / %
+Relational <>+!= (boolean output)
+Assignment //= = **= %= -= += *= /=
+Logical operator and or not (boolean output)
+membership operator in, not in
+Identity operator is is not
+2 is 2.0 flase different data types
+bitwise operator right shift >> left shift << bitwise and & bitwise or | ~ bitwise  1's complement ^ bitwise xor
+
+
+2<<3 is 0 that means 2 is shifted right by three bits
+2>>3 that means 2 is shifted left by three bits
+
+Python operator precedence highest to lowest
+**, unary positive unary neg bitwise negation, * / // %, +-, <<>>, &, ^, |, == != < <= > >= is is not, not, and, or
+SPecial use of + for string and % for strong formatting 
+print("sum is", sum)
+x=input("x=")
+
+import loads the content of specific modulde
+import math
+dir(math) displays all the commands under math library
+math.tan() math.log10(), math.exp(), math.sqrt(-1)=ValueError: math domain error
+
+Using cmath modules
+import cmath
+functions for complex numbers
+using random modules
+import random
+random.random(),random.randint(a,b)
+
+"si" in 'simplicity' true
+
+import math as x we can replace math with x in the further program
+while loop 
+i=0
+while i<3:
+    print(j)
+    i=i+1
+else:# when condition is wrong 
+    print("not j")
+
+Python built in data types text str numeric int float comple sequence list tuple range mapping dict set set forzenset boolean bool binary bytes bytearray memoryview none none type
+
+Strings
+abcdef
+ord(a) 97 ascii value of a
+chr(65) A to find the character in the 65th ascii value
+012345 forward index
+-6-5-4-3--2-1 backward index
+x= "christ"
+y="university"
+x[0:2] Ch 
+x[3:6] ist 
+y[-6,-2] ersi
+x*3 christchristchrist
+x+y christuniversity
+
+Tuple is like an array.
+food_items=("Biriyani","TAndoori","Burger","Pizza","Pasta")
+prices=(200,400,210,120,500)
+Tuples can be of any data type including combinations of different types of data like a=(true,"string",1)
+
+type(food_items) type of the particular object
+
+print(tuple) to print the entire tuple
+prices[-1] the last value
+prices[5:5]  empty
+prices[-2:-1]= 120
+prices[-5:-1]=200,400,210,120
+prices[4:]= 500
+prices[:4]= 200,400,210,120
+if "Biriyani" in food_items:
+    print("Yes it is avaiable")
+else:
+    print("It is not here")
+
+Each and every object has an unique id crrated automatically 
+print(id(prices))
+
+appending two Tuples
+prices=prices+food_items
+print(prices*3) repeating 3 times
+print(len(food_items))
+print(prices[-2])
+print(sum(prices))
+print(prices[-1:-5]) is an error
+print(max(prices))
+print(min(prices))
+del prices
+
+for x in tuple:
+    s=s+x
+print(s)
+
+
+
+To change tuple to list 
+list(food_items)
+
+
+
+
+x=range(3,20,2) start end increement
+x is a range
+printing elements in range we need for loop
+range works for only integers
+
+LISTS
+li=["Biriyani","TAndoori","Burger","Pizza","Pasta"]
+li[1]
+li[1:5]
+li[:4]
+li[1:]
+
+Tuples are immutable lists are mutable
+List function
+append()
+clear()
+copy()
+count() frequency of an element
+extend() two lists joined a.extend(b)
+index() 
+insert(index,"element")
+pop() remove element at specific index
+remove() remove item with specified value
+reverse()
+sort()
+
+FUNCTIONS
+def f(x,y):
+    z=2*Y
+    return z+x
+
+def f(c3,c2,c1) here c3 is 20 only this is allowed in python only
+    print(c1)
+f(c1=5,c2=10,c3=20) 
+here all the arguement name needs to be given otherwise don't give at all or give in the original order
+
+def f(*args): address of the variable used in list or array like structure
+    print(args[2])
+
+f("Sun","Moon","Earth")Earth
+f(1,2,3)3
+
+def f(**name): any number of arguements are there
+    print("last name is"+name[lname]) University
+
+f(fname="Christ",lname="University")
+
+Python Lambda function
+A lambda function is a small anonymous functionn
+Can take any number of arguements but can only have one expression
+lambda arguements: expression
+eg x=lambda a,b:a*b 
+f=lambda x,y,z=0,w=0:x+2*y+3*z+4*w
+
+List Comprehension
+they offer shorter syntax when you want to create a new list based on the values of an existing list
+[print(x) for x in courselist]
+newlst=[x for x in courselist]
+print(newlst)
+newlst is a new list
+newlist=[x for x in courselist if 'B' in x]
+print(newlist)
+newlist=[x  if x!="BBA" else "orange" for x in courselist]
+print(newlist)
+
+
+DICTIONARY
+menu={"Biriyani":500,"Tandoori":400,"Pasta":120,"Tea":10,"program":[100,200,300]}
+key:value
+print(menu)
+print(type(menu))
+
+SET AND FROZEN SET
+course={"MCA","BCA","BSC","MCSA","MBA"}
+for x in course:
+print(x)
+print(len(course))
+if "MCA" in course:
+print("yes")
+course.update("PHD") p h and d are added seperatly 
+
+pg=[1,1,2,1,3,4,5,6]
+course.update(pg)
+print(course)
+To add element in set use course.add("Mphil")
+Add vs update
+add is faster
+passing multiple arguements
+add adds one element update adds multiple elements
+
+Pop discard remove
+pop removes first element
+discard and remove will remove specific element
+remove will throw the error if we try to delete element not present in the set
+discard won't throw the error
+a=set()
+print(all(a)) is set empty?
+print(any(a)) any element present?
+max(a)
+min(a)
+sum(a)
+sorted(a)
+
+    FROZEN SET
+making the set immutable use frozen set
+salary=frozenset({10,20,30,40,50})
+course=frozenset(40,507,89,74)
+uni=salary.union(course)
+inter=salary.intersection(salary)
+diff=salary.difference(salary)
+diff01=salary.symmetricdifference(salary)a intersection b whole complement
+
+Mutable VS Immutable Objects
+Mutable:-
+Objects can be chnaged after creation
+generally provides a method to addd or remove elements
+slower to access compared to immutable Objects
+chnaging mutable objects is easy and efficient
+Eg distionary sets lists etc 
+
+Immutable
+Objects can't be chnaged after creation
+it does not provide any method to add remove or chnage the element
+quicker to access compared to mutable objects
+expensive or can't be chnaged
+eg:- strings bytes frozenset tuples etc
+
+Number System and Bitwise operator
+bin(128) conversrion of decmal to binary
+a=0b1101 binary number representation
+oct(8)
+hex(12)
+
+
+CREATE ALL DATA TYPES AND CHECK FOR MUTABLE AND Immutable
+
+OBJECT ORIENTED VS PROCEDURE ORIENTED
+Problem solving approach vs list of instructions
+development and mantainence easier vs not easier for lenghthy project
+simulates the real world entity vs doesn't 
+secure provides data hiding vs doesn't 
+c++ java .net python C# etc C fortran pascal vb etc
+
+
+METHODS AND CONSTRUCTORS
+function defined inside class
+
+INHERITANCE
+Single Multilevel hybrid(multiple types of inheritance) hierarchical multiple inheritances
+Multiple two parent class one child class
+hierarchical one parent multiple children
+
+
+
+ABSTRACT
+Blueprint for other classes
+helps in creating a set of mehtods msut be created within any child classes from the abstract class.
+methods are just defined but are not implemented
+we want to provide a common interface for different implementation of a computer we use an abstract class
+from ABC import ABC, abstractmethod
+
+EXCEPTION HANDLING
+try:
+    return 1/0
+except ZeroDivisionError:
+    return 0
+except (TypeError,ValueError):
+    print("Type or Value Error")
+
+
+Different types of EXCEPTION
+BaseException
+ ├── BaseExceptionGroup
+ ├── GeneratorExit
+ ├── KeyboardInterrupt
+ ├── SystemExit
+ └── Exception
+      ├── ArithmeticError
+      │    ├── FloatingPointError
+      │    ├── OverflowError
+      │    └── ZeroDivisionError
+      ├── AssertionError
+      ├── AttributeError
+      ├── BufferError
+      ├── EOFError
+      ├── ExceptionGroup [BaseExceptionGroup]
+      ├── ImportError
+      │    └── ModuleNotFoundError
+      ├── LookupError
+      │    ├── IndexError
+      │    └── KeyError
+      ├── MemoryError
+      ├── NameError
+      │    └── UnboundLocalError
+      ├── OSError
+      │    ├── BlockingIOError
+      │    ├── ChildProcessError
+      │    ├── ConnectionError
+      │    │    ├── BrokenPipeError
+      │    │    ├── ConnectionAbortedError
+      │    │    ├── ConnectionRefusedError
+      │    │    └── ConnectionResetError
+      │    ├── FileExistsError
+      │    ├── FileNotFoundError
+      │    ├── InterruptedError
+      │    ├── IsADirectoryError
+      │    ├── NotADirectoryError
+      │    ├── PermissionError
+      │    ├── ProcessLookupError
+      │    └── TimeoutError
+      ├── ReferenceError
+      ├── RuntimeError
+      │    ├── NotImplementedError
+      │    └── RecursionError
+      ├── StopAsyncIteration
+      ├── StopIteration
+      ├── SyntaxError
+      │    └── IndentationError
+      │         └── TabError
+      ├── SystemError
+      ├── TypeError
+      ├── ValueError
+      │    └── UnicodeError
+      │         ├── UnicodeDecodeError
+      │         ├── UnicodeEncodeError
+      │         └── UnicodeTranslateError
+      └── Warning
+           ├── BytesWarning
+           ├── DeprecationWarning
+           ├── EncodingWarning
+           ├── FutureWarning
+           ├── ImportWarning
+           ├── PendingDeprecationWarning
+           ├── ResourceWarning
+           ├── RuntimeWarning
+           ├── SyntaxWarning
+           ├── UnicodeWarning
+           └── UserWarning
+
