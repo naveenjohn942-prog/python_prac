@@ -1,0 +1,336 @@
+User_ID,Gender,Age,Height,Weight,Food,Measure,Grams,Calories,Protein,Fat,Sat.Fat,Fiber,Carbs,Category
+14733363,male,68,190,94,Cows' milk,1 qt.,976,660,32,40,36,0,48,Dairy products
+14861698,female,20,166,60,Milk skim,1 qt.,984,360,36,t,t,0,52,Dairy products
+11179863,male,69,179,79,Buttermilk,1 cup,246,127,9,5,4,0,13,Dairy products
+16180408,female,34,179,71,"Evaporated, undiluted",1 cup,252,345,16,20,18,0,24,Dairy products
+17771927,female,27,154,58,Fortified milk,6 cups,"1,419","1,373",89,42,23,1.4,119,Dairy products
+15130815,female,36,151,50,Powdered milk,1 cup,103,515,27,28,24,0,39,Dairy products
+19602372,female,33,158,56,"skim, instant",1 1/3 cups,85,290,30,t,t,0,42,Dairy products
+11117088,male,41,175,85,"skim, non-instant",2/3 cup,85,290,30,t,t,1,42,Dairy products
+12132339,male,60,186,94,Goats' milk,1 cup,244,165,8,10,8,0,11,Dairy products
+17964668,female,26,146,51,(1/2 cup ice cream),2 cups,540,690,24,24,22,0,70,Dairy products
+13723164,female,36,177,76,Cocoa,1 cup,252,235,8,11,10,0,26,Dairy products
+13681290,female,21,157,56,skim. milk,1 cup,250,128,18,4,3,1,13,Dairy products
+15566424,male,66,171,79,(cornstarch),1 cup,248,275,9,10,9,0,40,Dairy products
+12891699,female,32,157,54,Custard,1 cup,248,285,13,14,11,0,28,Dairy products
+13823829,male,53,182,85,Ice cream,1 cup,188,300,6,18,16,0,29,Dairy products
+17557348,female,39,156,62,Ice milk,1 cup,190,275,9,10,9,0,32,Dairy products
+12198133,male,39,182,82,Cream or half-and-half,1/2 cup,120,170,4,15,13,0,5,Dairy products
+15236104,male,46,169,67,or whipping,1/2 cup,119,430,2,44,27,1,3,Dairy products
+11042324,female,27,171,65,Cheese,1 cup,225,240,30,11,10,0,6,Dairy products
+16864285,male,50,188,86,uncreamed,1 cup,225,195,38,t,t,0,6,Dairy products
+11674347,male,67,189,93,Cheddar,1-in. cube,17,70,4,6,5,0,t,Dairy products
+19797300,female,31,148,50,"Cheddar, grated cup",1/2 cup,56,226,14,19,17,0,1,Dairy products
+14711095,female,33,157,60,Cream cheese,1 oz.,28,105,2,11,10,0,1,Dairy products
+14434854,female,20,165,59,Processed cheese,1 oz.,28,105,7,9,8,0,t,Dairy products
+14893804,male,48,182,85,Roquefort type,1 oz.,28,105,6,9,8,0,t,Dairy products
+17231597,male,29,176,75,Swiss,1 oz.,28,105,7,8,7,0,t,Dairy products
+10901446,male,33,173,73,Eggs raw,2,100,150,12,12,10,0,t,Dairy products
+15874362,male,42,190,88,Eggs Scrambled or fried,2,128,220,13,16,14,0,1,Dairy products
+15569252,female,62,159,59,Yolks,2,34,120,6,10,8,0,t,"Fats, Oils, Shortenings"
+15615743,male,38,171,75,Butter,1T.,14,100,t,11,10,0,t,"Fats, Oils, Shortenings"
+13363046,male,20,183,88,Butter,1/2 cup,112,113,114,115,116,117,118,"Fats, Oils, Shortenings"
+17572853,female,25,160,59,Butter,1/4 lb.,112,113,114,115,116,117,118,"Fats, Oils, Shortenings"
+17157339,female,24,165,59,Hydrogenated cooking fat,1/2 cup,100,665,0,100,88,0,0,"Fats, Oils, Shortenings"
+18328111,female,42,165,68,Lard,1/2 cup,110,992,0,110,92,0,0,"Fats, Oils, Shortenings"
+19303479,male,22,182,84,Margarine,1/2 cup,112,806,t,91,76,0,t,"Fats, Oils, Shortenings"
+10699201,female,74,158,59,"Margarine, 2 pat or",1 T.,14,100,t,11,9,0,t,"Fats, Oils, Shortenings"
+15283313,female,70,154,59,Mayonnaise,1 T.,15,110,t,12,5,0,t,"Fats, Oils, Shortenings"
+16324247,female,26,182,80,Corn oil,1 T.,14,125,0,14,5,0,0,"Fats, Oils, Shortenings"
+14277710,male,44,184,86,Olive oil,1T.,14,125,0,14,3,0,0,"Fats, Oils, Shortenings"
+10888188,male,61,183,86,Safflower seed oil,1 T.,14,125,0,14,3,0,0,"Fats, Oils, Shortenings"
+13379795,female,68,157,57,French dressing,1 T.,15,60,t,6,2,0,2,"Fats, Oils, Shortenings"
+17181524,female,61,176,70,Thousand Island sauce,1 T.,15,75,t,8,3,0,1,"Fats, Oils, Shortenings"
+15988442,male,63,179,80,Salt pork,2 oz.,60,470,3,55,,0,0,"Meat, Poultry"
+19538533,female,54,171,66,Bacon,2 slices,16,95,4,8,7,0,1,"Meat, Poultry"
+14591877,female,54,169,66,Beef,3 oz.,85,245,23,16,15,0,0,"Meat, Poultry"
+14274480,female,47,155,55,Hamburger,3 oz.,85,245,21,17,15,0,0,"Meat, Poultry"
+16818429,male,33,184,86,Ground lean,3 oz.,85,185,24,10,9,0,0,"Meat, Poultry"
+17476522,female,24,171,66,Roast beef,3 oz.,85,390,16,36,35,0,0,"Meat, Poultry"
+16369885,male,24,195,98,Steak,3 oz.,85,330,20,27,25,0,0,"Meat, Poultry"
+17816292,male,48,152,59,"Steak, lean, as round",3 oz.,85,220,24,12,11,0,0,"Meat, Poultry"
+15995398,male,35,193,93,Corned beef,3 oz.,85,185,22,10,9,0,0,"Meat, Poultry"
+17615432,male,21,168,71,Corned beef hash canned,3 oz.,85,120,12,8,7,t,6,"Meat, Poultry"
+10146087,female,21,179,73,Corned beef hash Dried,2 oz.,56,115,19,4,4,0,0,"Meat, Poultry"
+17967445,female,22,158,62,Pot-pie,1 pie,227,480,18,28,25,t,32,"Meat, Poultry"
+19670291,female,69,174,69,Corned beef hash Stew,1 cup,235,185,15,10,9,t,15,"Meat, Poultry"
+10580576,male,53,191,101,chicken,3 oz.,85,185,23,9,7,0,0,"Meat, Poultry"
+15854213,female,68,155,58,"Fried, breast or leg and thigh chicken",3 oz.,85,245,25,15,11,0,0,"Meat, Poultry"
+11138472,female,69,164,65,Roasted chicken,3 1/2 oz.,100,290,25,20,16,0,0,"Meat, Poultry"
+18276801,male,28,198,101,"Chicken livers, fried",3 med.,100,140,22,14,12,0,2.3,"Meat, Poultry"
+13823902,male,70,188,89,"Duck, domestic",3 1/2 oz.,100,370,16,28,0,0,0,"Meat, Poultry"
+19222133,female,36,170,64,"Lamb, chop, broiled",4 oz.,115,480,24,35,33,0,0,"Meat, Poultry"
+13231909,female,77,177,80,Leg roasted,3 oz.,86,314,20,14,14,0,0,"Meat, Poultry"
+12726617,female,32,167,63,"Shoulder, braised",3 oz.,85,285,18,23,21,0,0,"Meat, Poultry"
+12538968,female,62,185,77,"Pork, chop, 1 thick",3 1/2 oz.,100,260,16,21,18,0,0,"Meat, Poultry"
+10941668,female,64,151,56,Ham pan-broiled,3 oz.,85,290,16,22,19,0,0,"Meat, Poultry"
+12628985,male,45,175,79,"Ham, as ",2 oz.,57,170,13,13,11,0,0,"Meat, Poultry"
+17691320,male,45,158,61,"Ham, canned, spiced",2 oz.,57,165,8,14,12,0,1,"Meat, Poultry"
+17822027,female,22,177,71,Pork roast,3 oz.,85,310,21,24,21,0,0,"Meat, Poultry"
+13777657,male,45,169,69,Pork sausage,3 1/2 oz.,100,475,18,44,40,0,0,"Meat, Poultry"
+19423359,female,66,174,69,Turkey,3 1/2 oz.,100,265,27,15,0,0,0,"Meat, Poultry"
+14701930,male,31,182,83,Veal,3 oz.,85,185,23,9,8,0,0,"Meat, Poultry"
+11513205,female,57,163,68,Roast,3 oz.,85,305,13,14,13,0,0,"Meat, Poultry"
+11842710,male,53,192,93,Clams,3 oz.,85,87,12,1,0,0,2,"Fish, Seafood"
+12576313,female,22,179,67,Cod,3 1/2 oz.,100,170,28,5,0,0,0,"Fish, Seafood"
+12367125,male,67,192,92,Crab meat,3 oz.,85,90,14,2,0,0,1,"Fish, Seafood"
+16913504,female,27,168,64,Fish sticks fried,5,112,200,19,10,5,0,8,"Fish, Seafood"
+19439155,male,57,178,83,Flounder,3 1/2 oz.,100,200,30,8,0,0,0,"Fish, Seafood"
+16137644,female,49,168,68,Haddock,3 oz.,85,135,16,5,4,0,6,"Fish, Seafood"
+11622081,female,39,168,63,Halibut,3 1/2 oz.,100,182,26,8,0,0,0,"Fish, Seafood"
+17374074,male,47,165,72,Herring,1 small,100,211,22,13,0,0,0,"Fish, Seafood"
+19096890,male,62,197,101,Lobster,aver.,100,92,18,1,0,0,t,"Fish, Seafood"
+19628507,male,41,187,89,Mackerel,3 oz.,85,155,18,9,0,a,0,"Fish, Seafood"
+16918679,female,34,144,50,Oysters,6-8 med.,230,231,232,233,234,235,236,"Fish, Seafood"
+11194130,female,40,163,62,Oyster stew,1 cup,85,125,19,6,1,0,0,"Fish, Seafood"
+18863486,female,55,155,57,Salmon,3 oz.,85,120,17,5,1,0,0,"Fish, Seafood"
+11754581,male,44,189,88,Sardines,3 oz.,85,180,22,9,4,0,0,"Fish, Seafood"
+15161631,female,45,160,60,Scallops,3 1/2 oz.,100,104,18,8,0,0,10,"Fish, Seafood"
+18735761,female,49,164,64,Shad,3 oz.,85,170,20,10,0,0,0,"Fish, Seafood"
+15878611,female,46,166,68,Shrimp,3 oz.,85,110,23,1,0,0,0,"Fish, Seafood"
+19249559,male,25,202,100,Swordfish,1 steak,100,180,27,6,0,0,0,"Fish, Seafood"
+15469030,male,68,171,80,Tuna,3 oz.,85,170,25,7,3,0,0,"Fish, Seafood"
+11157560,female,25,169,64,Artichoke,1 large,100,Aug-44,2,t,t,2,10,Vegetables A-E
+19576971,female,31,174,67,Asparagus,6 spears,96,18,1,t,t,0.5,3,Vegetables A-E
+15048071,male,57,184,91,Beans,1 cup,125,25,1,t,t,0.8,6,Vegetables A-E
+18707469,female,27,159,59,Lima,1 cup,160,140,8,t,t,3,24,Vegetables A-E
+12598637,male,40,201,98,"Lima, dry, cooked",1 cup,192,260,16,t,t,2,48,Vegetables A-E
+14342169,female,57,171,74,"Navy, baked with pork",3/4 cup,200,250,11,6,6,2,37,Vegetables A-E
+19208771,female,23,155,62,Red kidney,1 cup,260,230,15,1,0,2.5,42,Vegetables A-E
+11790318,male,23,189,87,Bean sprouts,1 cup,50,17,1,t,0,0.3,3,Vegetables A-E
+11756583,male,43,183,88,Beet greens,1 cup,100,27,2,t,0,1.4,6,Vegetables A-E
+16417986,male,74,201,107,Beetroots,1 cup,165,1,12,0,,t,0.8,Vegetables A-E
+13065142,female,45,158,53,Broccoli,1 cup,150,45,5,t,0,1.9,8,Vegetables A-E
+10481882,female,31,165,60,Brussels sprouts,1 cup,130,60,6,t,0,1.7,12,Vegetables A-E
+19521409,male,21,195,93,Sauerkraut,1 cup,150,32,1,t,0,1.2,7,Vegetables A-E
+15862346,male,50,190,96,Steamed cabbage,1 cup,170,40,2,t,0,1.3,9,Vegetables A-E
+12234447,male,39,175,74,Carrots,1 cup,150,45,1,t,0,0.9,10,Vegetables A-E
+14624633,male,57,169,81,"Raw, grated",1 cup,110,45,1,t,0,1.2,10,Vegetables A-E
+17074274,female,26,159,53,"Strips, from raw",1 mad.,50,20,t,t,0,0.5,5,Vegetables A-E
+17636190,male,34,181,83,Cauliflower,1 cup,120,30,3,t,0,1,6,Vegetables A-E
+14345479,female,55,160,62,Celery,1 cup,100,20,1,t,0,1,4,Vegetables A-E
+11772472,female,52,171,67,Stalk raw,1 large,40,5,1,t,0,0.3,1,Vegetables A-E
+19087162,male,21,188,90,Chard steamed,1 cup,150,30,2,t,0,1.4,7,Vegetables A-E
+15875055,female,20,136,45,Collards,1 cup,150,51,5,t,0,2,8,Vegetables A-E
+10939512,female,79,152,60,Corn,1 ear,100,92,3,1,t,0.8,21,Vegetables A-E
+13616455,male,21,189,91,cooked or canned,1 cup,200,170,5,t,0,1.6,41,Vegetables A-E
+19118405,male,50,171,74,Cucumbers,8,50,6,t,0,0,0.2,1,Vegetables A-E
+10503799,female,29,180,76,Dandelion greens,1 cup,180,80,5,1,0,3.2,16,Vegetables A-E
+16572590,male,22,194,92,Eggplant,1 cup,180,30,2,t,0,1,9,Vegetables A-E
+17336010,female,28,158,60,Endive,2 oz.,57,10,1,t,0,0.6,2,Vegetables A-E
+15483091,male,38,188,93,Kale,1 cup,110,45,4,1,0,0.9,8,Vegetables F-P
+10006441,male,23,169,73,Kohlrabi,1 cup,140,40,2,t,0,1.5,9,Vegetables F-P
+13075455,female,68,159,68,"Lambs quarters, steamed",1 cup,150,48,5,t,0,3.2,7,Vegetables F-P
+17564519,male,79,176,86,Lentils,1 cup,200,212,15,t,0,2.4,38,Vegetables F-P
+18789619,female,35,182,70,Lettuce,1/4 head,100,14,1,t,0,0.5,2,Vegetables F-P
+15444304,male,67,201,96,Iceberg,1/4 head,100,13,t,t,0,0.5,3,Vegetables F-P
+13122354,female,21,156,52,Mushrooms canned,4,120,12,2,t,0,t,4,Vegetables F-P
+10692173,female,44,143,49,Mustard greens,1,140,30,3,t,0,1.2,6,Vegetables F-P
+12890276,female,43,175,72,Okra,1 1/3 cups,100,32,1,t,0,1,7,Vegetables F-P
+14339451,male,21,186,79,Onions,1,210,80,2,t,0,1.6,18,Vegetables F-P
+16626118,female,32,170,70,"Raw, green",6 small,50,22,t,t,0,1,5,Vegetables F-P
+17268858,male,79,179,91,Parsley,2 T.,50,2,t,t,0,t,t,Vegetables F-P
+13816658,male,51,192,96,Parsnips,1 cup,155,95,2,1,0,3,22,Vegetables F-P
+14191617,female,60,174,67,Peas,1 cup,100,66,3,t,0,0.1,13,Vegetables F-P
+13672975,male,49,184,86,"Fresh, steamed peas",1 cup,100,70,5,t,0,2.2,12,Vegetables R-Z
+16361679,male,46,179,84,Frozen peas,1 cup,100,,5,t,0,1.8,12,Vegetables R-Z
+17739883,female,35,149,54,Split cooked peas,4 cups,100,115,8,t,0,0.4,21,Vegetables R-Z
+19341462,male,31,172,76,heated peas,1 cup,100,53,3,t,0,1,10,Vegetables R-Z
+14117537,male,42,185,78,Peppers canned,1 pod,38,10,t,t,0,t,2,Vegetables R-Z
+12667831,female,66,174,69,"Peppers Raw, green, sweet",1 large,100,25,1,t,0,1.4,6,Vegetables R-Z
+10661999,male,52,189,90,Peppers with beef and crumbs,1 med.,150,255,19,9,8,1,24,Vegetables R-Z
+10366046,male,59,166,73,"Potatoes, baked",1 med.,100,100,2,t,0,0.5,22,Vegetables R-Z
+11523134,male,23,169,71,French-fried,10 pieces,60,155,-1,7,3,0.4,20,Vegetables R-Z
+12275702,female,49,164,63,Potatoes Mashed with milk and butter,1 cup,200,230,4,12,11,0.7,28,Vegetables R-Z
+11190411,female,25,157,57,"Potatoes, pan-tried",3/4 cup,100,268,4,14,6,0.4,33,Vegetables R-Z
+19686449,male,20,188,84,Scalloped with cheese potatoes,3/4 cup,100,145,6,8,7,0.4,14,Vegetables R-Z
+15565644,female,28,163,66,Steamed potatoes before peeling,1 med.,100,80,2,t,0,0.4,19,Vegetables R-Z
+10154011,male,60,182,90,Potato chips,10,20,110,1,7,4,t,10,Vegetables R-Z
+12676049,female,29,178,77,Radishes,5 small,50,10,t,0,0,0.3,2,Vegetables R-Z
+10228092,male,40,184,87,Rutabagas,4 cups,100,32,t,0,0,1.4,8,Vegetables R-Z
+18997284,male,26,191,93,Soybeans,1 cup,200,260,22,11,0,3.2,20,Vegetables R-Z
+10836250,female,26,176,76,Spinach,1 cup,100,26,3,t,0,1,3,Vegetables R-Z
+15883541,male,25,158,58,Squash,1 cup,210,35,1,t,0,0.6,8,Vegetables R-Z
+16990389,female,60,190,87,"Winter, mashed",1 cup,200,95,4,t,0,2.6,23,Vegetables R-Z
+17046329,male,25,181,81,Sweet potatoes,1 med.,110,155,2,1,0,1,36,Vegetables R-Z
+14136420,female,39,165,65,Candied,1 med.,175,235,2,6,5,1.5,80,Vegetables R-Z
+13138092,female,30,153,53,Tomatoes,1 cup,240,50,2,t,0,1,9,Vegetables R-Z
+16655537,male,23,198,100,"Raw, 2 by 2 1/2",1 med.,150,30,1,t,0,0.6,6,Vegetables R-Z
+16245184,female,37,148,51,Tomato juice,1 cup,240,50,2,t,0,0.6,10,Vegetables R-Z
+19157340,female,22,147,47,Tomato catsup,1 T.,17,15,t,t,0,t,4,Vegetables R-Z
+19810083,female,26,170,68,Turnip greens,1 cup,145,45,4,1,0,1.8,8,Vegetables R-Z
+19821989,female,56,167,60,"Turnips, steamed",1 cup,155,40,1,t,0,1.8,9,Vegetables R-Z
+17219988,male,43,171,79,"Watercress stems, raw",1 cup,50,9,1,t,0,0.3,1,Fruits A-F
+19572798,female,38,169,65,Apple juice canned,1 cup,250,125,t,0,0,0,34,Fruits A-F
+18360844,male,24,179,80,Apple vinegar,1/3 cup,100,14,t,0,0,0,3,Fruits A-F
+13918575,female,25,164,63,"Apples, raw",1 med,130,70,t,t,0,1,18,Fruits A-F
+15319150,female,31,163,62,Stewed or canned,1 cup,240,100,t,t,0,2,26,Fruits A-F
+16112624,female,54,151,57,Apricots,1 cup,250,220,2,t,0,1,57,Fruits A-F
+11099585,female,34,190,91,"Dried, uncooked",1/2 cup,75,220,4,t,0,1,50,Fruits A-F
+17300463,female,28,176,72,Fresh,3 med.,114,55,1,t,0,0.7,14,Fruits A-F
+17118372,male,24,191,95,"Nectar, or juice",1 cup,250,140,1,t,0,2,36,Fruits A-F
+14435543,female,27,167,69,Avocado,1/2 large,108,185,2,18,12,1.8,6,Fruits A-F
+10908558,female,35,154,57,Banana,1 med.,150,85,1,t,0,0.9,23,Fruits A-F
+14181557,male,49,183,89,Blackberries,1 cup,144,85,2,1,0,6.6,19,Fruits A-F
+17152651,male,36,185,91,Blueberries,1 cup,250,245,1,t,0,2,65,Fruits A-F
+10192977,female,58,192,83,Cantaloupe,1/2 med.,380,40,1,t,0,2.2,9,Fruits A-F
+19584135,female,40,157,61,Cherries,1 cup,257,100,2,1,0,2,26,Fruits A-F
+19445771,male,31,179,77,"Fresh, raw",1 cup,114,65,1,t,0,0.8,15,Fruits A-F
+11294536,male,50,182,86,Cranberry sauce sweetened,1 cup,277,530,t,t,0,1.2,142,Fruits A-F
+12845462,male,36,202,109,Dates,1 cup,178,505,4,t,0,3.6,134,Fruits A-F
+10578158,female,34,163,61,Figs,2,42,120,2,t,0,1.9,30,Fruits A-F
+19789364,female,78,153,54,"Fresh, raw figs",3 med.,114,90,2,t,0,1,22,Fruits A-F
+12301038,male,41,178,76,figs Canned with syrup ,3,115,130,1,t,0,1,32,Fruits A-F
+18976127,male,41,172,71,"Fruit cocktail, canned",1 cup,256,195,1,t,0,0.5,50,Fruits A-F
+11460469,male,24,178,77,Grapefruit sections,1 cup,250,170,1,t,0,0.5,44,Fruits G-P
+15238405,female,67,173,69,"Grapefruit, fresh, 5"" diameter",01-Feb,285,50,1,t,t,1,14,Fruits G-P
+18559105,female,47,179,75,Grapefruit juice,1 cup,250,100,1,t,0,1,24,Fruits G-P
+12761860,female,42,154,52,Grapes,1 cup,153,70,1,t,0,0.8,16,Fruits G-P
+12777201,female,25,180,75,"European, as Muscat, Tokay",1 cup,160,100,1,t,0,0.7,26,Fruits G-P
+11084582,male,25,179,78,Grape juice,1 cup,250,160,1,t,0,t,42,Fruits G-P
+11393152,female,58,165,68,Lemon juice,1/2 cup,125,30,t,t,0,t,10,Fruits G-P
+12327773,male,68,191,98,Lemonade concentratefrozen,6-oz. can,220,430,t,t,0,t,112,Fruits G-P
+12038545,male,24,181,91,Limeade concentrate frozen,6-oz. can,218,405,t,t,0,t,108,Fruits G-P
+17593004,male,38,192,92,Olives large,10,65,72,1,10,9,0.8,3,Fruits G-P
+11708341,female,26,164,59,OlivesRipe,10,65,105,1,13,12,1,1,Fruits G-P
+10753818,male,64,178,83,"Oranges 3"" diameter",1 med.,180,60,2,t,t,1,16,Fruits G-P
+10608177,female,49,174,75,Orange juice,8 oz. or,250,112,2,t,0,0.2,25,Fruits G-P
+11267944,female,73,158,57,Frozen ,6-oz. can,210,330,2,t,t,0.4,78,Fruits G-P
+19795364,male,27,180,86,Papaya,1/2 med.,200,75,1,t,0,1.8,18,Fruits G-P
+14290814,male,66,171,72,Peaches,1 cup,257,200,1,t,0,1,52,Fruits G-P
+19222644,male,39,199,104,"Fresh, raw",1 med.,114,35,1,t,0,0.6,10,Fruits G-P
+12847212,female,30,168,62,Pears,1 cup,255,195,1,t,0,2,50,Fruits G-P
+11986136,male,76,187,96,"Raw, 3 by 2V",1 med.,182,100,1,1,0,2,25,Fruits G-P
+11830053,male,60,193,90,Persimmons,1 med.,125,75,1,t,0,2,20,Fruits G-P
+14737350,male,54,188,90,Pineapple,1 large slice,122,95,t,t,0,0.4,26,Fruits G-P
+15294669,female,49,166,66,Pineapple Crushed,1 cup,260,205,1,t,0,0.7,55,Fruits G-P
+17146724,female,24,173,66,"Raw, diced",1 cup,140,75,1,t',0,0.6,19,Fruits G-P
+17490159,female,28,161,57,Pineapple juice,1 cup,250,120,1,t,0,0.2,32,Fruits G-P
+15501381,male,72,197,102,Plums,1 cup,256,185,1,t,0,0.7,50,Fruits G-P
+16736138,male,32,171,78,"Raw, 2"" diameter",1,60,30,t,t,0,0.2,7,Fruits G-P
+18493316,female,36,159,59,Prunes,1 cup,270,300,3,1,0,0.8,81,Fruits G-P
+17497515,male,65,204,103,Prune juice,1 cup,240,170,1,t,0,0.7,45,Fruits G-P
+14364172,female,36,163,67,Raisins,1/2 cup,88,230,2,t,0,0.7,82,Fruits R-Z
+14217831,female,32,159,63,Raspberries,1/2 cup,100,100,t,t,0,2,25,Fruits R-Z
+10483147,male,42,180,84,"Raw, red",3/4 cup,100,57,t,t,0,5,14,Fruits R-Z
+18046507,male,34,191,94,Rhubarb sweetened,1 cup,270,385,1,t,0,1.9,98,Fruits R-Z
+12414011,male,34,181,78,Strawberries,1 cup,227,242,1,t,0,1.3,60,Fruits R-Z
+10710546,male,26,191,86,Raw,1 cup,149,54,t,t,0,1.9,12,Fruits R-Z
+16175343,male,31,203,105,Tangerines,I med.,114,40,1,t,0,1,10,Fruits R-Z
+12020646,female,64,157,63,Watermelon,1 wedge,925,120,2,1,0,3.6,29,Fruits R-Z
+13611443,male,34,185,93,Biscuits,1,38,130,3,4,3,t,18,"Breads, cereals, fastfood,grains"
+16383525,male,63,204,112,Bran flakes,1 cup,25,117,3,t,0,0.1,32,"Breads, cereals, fastfood,grains"
+17841776,male,44,194,87,"Bread, cracked wheat",1 slice,23,60,2,1,1,0.1,12,"Breads, cereals, fastfood,grains"
+10735479,male,36,190,96,Rye,1 slice,23,55,2,1,1,0.1,12,"Breads, cereals, fastfood,grains"
+13117699,male,41,173,71,"White, 20 slices, or",1-lb. loaf,454,"1,225",39,15,12,9,229,"Breads, cereals, fastfood,grains"
+16042685,male,73,168,77,Whole-wheat,1-lb. loaf,454,"1,100",48,14,10,67.5,216,"Breads, cereals, fastfood,grains"
+10315558,male,31,186,85,Whole-wheat,1 slice,23,55,2,1,0,0.31,11,"Breads, cereals, fastfood,grains"
+12304455,male,22,179,73,Corn bread ground meal,1 serving,50,100,3,4,2,0.3,15,"Breads, cereals, fastfood,grains"
+15503276,female,34,161,56,Cornflakes,1 cup,25,110,2,t,0,0.1,25,"Breads, cereals, fastfood,grains"
+10565624,female,21,168,65,Corn grits cooked,1 cup,242,120,8,t,0,0.2,27,"Breads, cereals, fastfood,grains"
+12458510,female,22,145,50,Corn meal,1 cup,118,360,9,4,2,1.6,74,"Breads, cereals, fastfood,grains"
+13885247,male,33,190,97,Crackers,2 med.,14,55,1,1,0,t,10,"Breads, cereals, fastfood,grains"
+11572170,female,51,157,60,"Soda, 2 1/2 square",2,11,45,1,1,0,t,8,"Breads, cereals, fastfood,grains"
+19911268,male,45,195,99,Farina,1 cup,238,105,3,t,0,8,22,"Breads, cereals, fastfood,grains"
+12859596,female,33,175,67,Flour,1 cup,110,460,39,22,0,2.9,33,"Breads, cereals, fastfood,grains"
+15376017,male,47,198,97,Wheat (all purpose),1 cup,110,400,12,1,0,0.3,84,"Breads, cereals, fastfood,grains"
+19921858,female,70,175,74,Wheat (whole),1 cup,120,390,13,2,0,2.8,79,"Breads, cereals, fastfood,grains"
+19187230,female,77,160,63,Macaroni,1 cup,140,155,5,1,0,0.1,32,"Breads, cereals, fastfood,grains"
+10874559,female,35,172,71,Baked with cheese,1 cup,220,475,18,25,24,t,44,"Breads, cereals, fastfood,grains"
+11746700,female,44,161,60,Muffins,1,48,135,4,5,4,t,19,"Breads, cereals, fastfood,grains"
+10952850,female,71,164,60,Noodles,1 cup,160,200,7,2,2,0.1,37,"Breads, cereals, fastfood,grains"
+16785115,female,54,174,75,Oatmeal,1 cup,236,150,5,3,2,4.6,26,"Breads, cereals, fastfood,grains"
+14951529,female,63,166,68,"Pancakes 4"" diam.",4,108,250,7,9,0,0.1,28,"Breads, cereals, fastfood,grains"
+13846186,female,50,149,55,"Wheat, pancakes 4"" diam.",4,108,250,7,9,0,0.1,28,"Breads, cereals, fastfood,grains"
+10590765,male,63,200,105,"Pizza 14"" diam.",1 section,75,180,8,6,5,t,23,"Breads, cereals, fastfood,grains"
+15032837,female,30,163,58,Popcorn salted,2 cups,28,152,3,7,2,0.5,20,"Breads, cereals, fastfood,grains"
+15511677,female,33,163,57,Puffed rice,1 cup,14,55,t,t,0,t,12,"Breads, cereals, fastfood,grains"
+18148848,male,38,189,91,Puffed wheat presweetened,1 cup,28,105,1,t,0,0.6,26,"Breads, cereals, fastfood,grains"
+13172849,male,20,183,81,Rice,1 cup,208,748,15,3,0,1.2,154,"Breads, cereals, fastfood,grains"
+18401432,female,67,159,62,Converted,1 cup,187,677,14,t,0,0.4,142,"Breads, cereals, fastfood,grains"
+14857446,male,24,188,90,White,1 cup,191,692,14,t,0,0.3,150,"Breads, cereals, fastfood,grains"
+12734403,male,30,197,103,Rice flakes,1 cup,30,115,2,t,0,0.1,26,"Breads, cereals, fastfood,grains"
+11693744,female,35,145,49,Rice polish,1/2 cup,50,132,6,6,0,1.2,28,"Breads, cereals, fastfood,grains"
+10622381,female,63,176,79,Rolls,1 large,50,411,3,12,11,0.1,23,"Breads, cereals, fastfood,grains"
+18548803,female,50,157,60,of refined flour,1,38,115,3,2,2,t,20,"Breads, cereals, fastfood,grains"
+18119523,male,33,200,101,whole-wheat,1,40,102,4,1,0,0.1,20,"Breads, cereals, fastfood,grains"
+13991141,female,36,163,58,Spaghetti with meat sauce,1 cup,250,285,13,10,6,0.5,35,"Breads, cereals, fastfood,grains"
+10677750,male,75,187,97,with tomatoes and cheese,1 cup,250,210,6,5,3,0.5,36,"Breads, cereals, fastfood,grains"
+17724752,male,56,184,93,Spanish rice,1 cup,250,217,4,4,0,1.2,40,"Breads, cereals, fastfood,grains"
+17047475,female,50,182,75,Shredded wheat biscuit,1,28,100,3,1,0,0.7,23,"Breads, cereals, fastfood,grains"
+18908393,male,24,183,80,Waffles,1,75,240,8,9,1,0.1,30,"Breads, cereals, fastfood,grains"
+19475479,female,32,172,72,Wheat germ,1 cup,68,245,17,7,3,2.5,34,"Breads, cereals, fastfood,grains"
+10854360,male,49,193,100,Wheat-germ cereal toasted,1 cup,65,260,20,7,3,2.5,36,"Breads, cereals, fastfood,grains"
+17425584,female,77,170,65,Wheat meal cereal unrefined,3/4 cup,30,103,4,1,0,0.7,25,"Breads, cereals, fastfood,grains"
+15539064,male,67,171,75,"Wheat, cooked",3/4 cup,200,275,12,1,0,4.4,35,"Breads, cereals, fastfood,grains"
+14130669,male,23,182,81,Bean soups,1 cup,250,190,8,5,4,0.6,30,Soups
+15015988,male,37,192,95,Beef soup,1 cup,250,100,6,4,4,0.5,11,Soups
+13741485,female,35,163,59,Bouillon,1 cup,240,24,5,0,0,0,0,Soups
+13015812,male,34,185,83,chicken soup,1 cup,250,75,4,2,2,0,10,Soups
+13939844,female,49,168,67,Clam chowder,1 cup,255,85,5,2,8,0.5,12,Soups
+13135068,female,69,156,61,Cream soups,1 cup,255,200,7,12,11,1.2,18,Soups
+13286573,male,49,194,101,Noodle,1 cup,250,115,6,4,3,0.2,13,Soups
+19246830,female,41,150,51,Split-pea soup,1 cup,250,147,8,3,3,0.5,25,Soups
+18976105,male,42,195,95,Tomato soup,1 cup,245,175,6,7,6,0.5,22,Soups
+14714345,male,52,188,93,Vegetable,1 cup,250,80,4,2,2,0,14,Soups
+18319225,female,26,158,60,Apple betty,1 serving,100,150,1,4,0,0.5,29,"Desserts, sweets"
+14775199,female,79,178,80,Bread pudding,3/4 cup,200,374,11,12,11,0.2,56,"Desserts, sweets"
+10074404,male,72,172,82,Cakes,1 slice,40,110,3,t,0,0,23,"Desserts, sweets"
+16366307,male,34,195,92,Chocolate fudge,1 slice,120,420,5,14,12,0.3,70,"Desserts, sweets"
+13945114,female,60,152,50,Cupcake,1,50,160,3,3,2,t,31,"Desserts, sweets"
+16749464,female,45,158,57,Fruit cake,1 slice,30,105,2,4,3,0.2,17,"Desserts, sweets"
+18521428,male,33,188,92,Gingerbread,1 slice,55,180,2,7,6,t,28,"Desserts, sweets"
+10207737,male,56,192,97,"Plain, with no icing",1 slice,55,180,4,5,4,t,31,"Desserts, sweets"
+10722362,female,21,153,54,Sponge cake,1 slice,40,115,3,2,2,0,22,"Desserts, sweets"
+15316949,female,50,161,61,Candy,5,25,104,t,3,3,0,19,"Desserts, sweets"
+14920065,male,60,184,86,Chocolate creams,2,30,130,t,4,4,0,24,"Desserts, sweets"
+10809847,male,39,162,72,Fudge,2 pieces,90,370,t,12,11,0.1,80,"Desserts, sweets"
+12363678,male,48,175,75,Hard candies,1 oz.,28,90,t,0,0,0,28,"Desserts, sweets"
+17804243,female,38,163,65,Marshmallows,5,30,98,1,0,0,0,23,"Desserts, sweets"
+15862195,male,54,190,95,Milk chocolate,2-oz. bar,56,290,2,6,6,0.2,44,"Desserts, sweets"
+12555008,male,23,195,89,Chocolate syrup,2 T.,40,80,t,t,t,0,22,"Desserts, sweets"
+13788834,female,72,164,68,Doughnuts,1,33,135,2,7,4,t,17,"Desserts, sweets"
+19113986,male,47,179,79,"Gelatin, made with water",1 cup,239,155,4,t,t,0,36,"Desserts, sweets"
+19510192,female,58,170,72,Honey,2 T.,42,120,t,0,0,0,30,"Jams, Jellies"
+15831321,male,41,179,85,Ice cream,2 cups,300,250,0,0,12,10,0,"Desserts, sweets"
+14142930,male,62,193,100,Ices,1 cup,150,117,0,0,0,0,48,"Desserts, sweets"
+16036236,female,30,168,67,preserves,1 T.,20,55,0,0,0,t,14,"Jams, Jellies"
+19962170,female,32,156,56,Jellies,1 T.,20,50,0,0,0,0,13,"Jams, Jellies"
+11390035,male,20,178,80,Molasses,1 T.,20,45,0,0,0,8,11,"Jams, Jellies"
+16163940,female,53,168,65,Cane Syrup,1 T.,20,50,0,0,0,0,13,"Jams, Jellies"
+17847428,male,51,189,95,"9"" diam. pie",1 slice,135,330,3,13,11,0.1,53,"Desserts, sweets"
+18908334,male,78,177,86,Cherry Pie,1 slice,135,340,3,13,11,0.1,55,"Desserts, sweets"
+17029728,female,31,169,69,Custard,1 slice,130,265,7,11,10,0,34,"Desserts, sweets"
+10082523,male,74,205,112,Lemon meringue,1 slice,120,300,4,12,10,0.1,45,"Desserts, sweets"
+15505673,female,50,177,70,Mince,1 slice,135,340,3,9,8,0.7,62,"Desserts, sweets"
+12679497,female,40,160,70,Pumpkin Pie,1 slice,130,265,5,12,11,8,34,"Desserts, sweets"
+17438788,male,41,172,75,Puddings Sugar,1 cup,200,770,0,0,0,0,199,"Desserts, sweets"
+19382988,female,26,161,54,3 teaspoons sugar,1 T.,12,50,0,0,0,0,12,"Desserts, sweets"
+13632419,male,25,185,89,"Brown, firm-packed, dark sugar",1 cup,220,815,0,t,0,0,210,"Jams, Jellies"
+12432246,male,31,184,89,Syrup,2 T.,40,100,0,0,0,0,25,"Jams, Jellies"
+19984594,male,20,186,90,table blends sugar,2 T.,40,110,0,0,0,0,29,"Jams, Jellies"
+14768524,female,55,176,72,Tapioca cream pudding,1 cup,250,335,10,10,9,0,42,"Desserts, sweets"
+18107311,female,52,160,59,Almonds,1/2 cup,70,425,13,38,28,1.8,13,Seeds and Nuts
+11102823,male,60,208,105,roasted and salted,1/2 cup,70,439,13,40,31,1.8,13,Seeds and Nuts
+11337714,male,36,191,93,Brazil nuts,1/2 cup,70,457,10,47,31,2,7,Seeds and Nuts
+15422663,female,53,168,69,Cashews,1/2 cup,70,392,12,32,28,0.9,20,Seeds and Nuts
+10201123,male,36,193,95,coconut sweetened,1/2 cup,50,274,1,20,19,2,26,Seeds and Nuts
+10310404,female,23,169,68,Peanut butter,1/3 cup,50,300,12,25,17,0.9,9,Seeds and Nuts
+17001911,female,36,164,57,"Peanut butter, natural",1/3 cup,50,284,13,24,10,0.9,8,Seeds and Nuts
+13586767,female,37,166,61,Peanuts,1/3 cup,50,290,13,25,16,1.2,9,Seeds and Nuts
+11312954,male,48,181,80,Pecans,1/2 cup,52,343,5,35,25,1.1,7,Seeds and Nuts
+19873304,female,39,167,71,Sesame seeds,1/2 cup,50,280,9,24,13,3.1,10,Seeds and Nuts
+10331021,male,21,205,103,Sunflower seeds,1/2 cup,50,280,12,26,7,1.9,10,Seeds and Nuts
+10566369,male,20,187,86,Walnuts,1/2 cup,50,325,7,32,7,1,8,Seeds and Nuts
+19286727,male,57,169,72,Beer,2 cups,480,228,t,0,0,0,8,"Drinks,Alcohol, Beverages"
+19845852,female,77,160,66,Gin,1 oz.,28,70,0,0,0,0,t,"Drinks,Alcohol, Beverages"
+18971121,male,34,184,85,Wines,1/2 cup,120,164,t,0,0,0,9,"Drinks,Alcohol, Beverages"
+16784301,male,52,189,92,Table (12.2% alcohol),1/2 cup,120,100,t,0,0,0,5,"Drinks,Alcohol, Beverages"
+15158798,male,70,194,91,Carbonated drinks Artificially sweetened,12 oz.,346,0,0,0,0,0,0,"Drinks,Alcohol, Beverages"
+12730658,female,64,157,54,Club soda,12 oz.,346,0,0,0,0,0,0,"Drinks,Alcohol, Beverages"
+16649627,male,73,198,101,Cola drinks,12 oz.,346,137,0,0,0,0,38,"Drinks,Alcohol, Beverages"
+16205668,male,47,195,99,Fruit-flavored soda,12 oz.,346,161,0,0,0,0,42,"Drinks,Alcohol, Beverages"
+15013894,female,39,164,65,Ginger ale,12 oz.,346,105,0,0,0,0,28,"Drinks,Alcohol, Beverages"
+12286808,female,25,163,60,Root beer,12 oz.,346,140,0,0,0,0,35,"Drinks,Alcohol, Beverages"
+10485469,male,22,165,67,Coffee,1 cup,230,3,t,0,0,0,1,"Drinks,Alcohol, Beverages"
+13340241,male,67,173,78,Tea,1 cup,230,4,0,t,0,0,1,"Drinks,Alcohol, Beverages"
