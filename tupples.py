@@ -1,3 +1,4 @@
+#test
 food_items=("Biriyani","TAndoori","Burger","Pizza","Pasta")
 prices=(200,400,210,120,500)
 todays_special=("Alfredo Pasta","Makhani Chicken Burger","Aloo Paratha")
